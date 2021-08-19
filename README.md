@@ -1,3 +1,8 @@
+# The Modern Python 3
+https://www.udemy.com/course/the-modern-python3-bootcamp/
+
+My personal notes when taking **The Modern Python 3** Udemy course
+
 ## Variables & Data Types
 Goals: 
 * Understand how to assign and use variables

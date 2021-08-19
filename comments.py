@@ -1,0 +1,1 @@
+print(1/3) #division return float even when dividing two ints
